@@ -1,0 +1,1 @@
+<p class="solid">@CopyRight :SoftServioTech</p>
